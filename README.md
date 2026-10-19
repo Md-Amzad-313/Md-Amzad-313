@@ -47,7 +47,7 @@
 ---
 
 <h1 align="center">🔍 About Me</h1>
-I'm MD Amzad, a passionate software engineer and AI enthusiast with hands-on experience in machine learning, web development, and software engineering. I’m currently pursuing a B.Tech in Computer Science Engineering and have completed internships in front-end development at Bharat Intern and competitive programming at HackerRank, where I achieved top certifications. As the founder of TechieHelp, I provide internships, resources, and development services for budding tech professionals
+I'm MD Amzad, a passionate software engineer and AI enthusiast with hands-on experience in machine learning, web development, and software engineering. I’m currently pursuing a B.Tech in Computer Science Engineering and have completed internships in front-end development at Bharat Intern and competitive programming at HackerRank, where I achieved top certifications. As the intern at TechieHelp, I provide internships, resources, and development services for budding tech professionals
  
 
 -
@@ -58,5 +58,5 @@ I'm MD Amzad, a passionate software engineer and AI enthusiast with hands-on exp
   📍 Jodhpur, Rajasthan  
   **B.Tech in Computer Science Engineering (AI & ML)**  
   📅 Sept 2023 – Sept 2027  
-  📊 CGPA: 7.05  
+  📊 CGPA: 9.4 
 
